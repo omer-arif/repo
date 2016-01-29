@@ -20,7 +20,7 @@ namespace Survey_Workflow
             //Phone
             this.chart1.Series[0].Points.AddXY("Survey1" , 10);
             this.chart1.Series[0].Points.AddXY("Survey2", 20);
-            this.chart1.Series[0].Points.AddXY("Survey3", 30);
+            this.chart1.Series[0].Points.AddXY("Survey3", 40);
             this.chart1.Series[0].Points.AddXY("Survey4", 40);
             this.chart1.Series[0].Points.AddXY("Survey5", 15);
             //Email
