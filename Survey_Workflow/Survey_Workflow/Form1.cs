@@ -28,7 +28,7 @@ namespace Survey_Workflow
             this.chart1.Series[1].Points.AddXY("Survey2", 45);
             this.chart1.Series[1].Points.AddXY("Survey3", 18);
             this.chart1.Series[1].Points.AddXY("Survey4", 31);
-            this.chart1.Series[1].Points.AddXY("Survey5", 12);
+            this.chart1.Series[1].Points.AddXY("Survey5", 78);
 
             welcome.ReadOnly = true;
         }
